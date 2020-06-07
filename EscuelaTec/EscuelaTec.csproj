@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsignacionMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignacionMaterias.Designer.cs">
+      <DependentUpon>AsignacionMaterias.cs</DependentUpon>
+    </Compile>
     <Compile Include="conexion1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -109,6 +115,9 @@
     <Compile Include="UserControl1.Designer.cs">
       <DependentUpon>UserControl1.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AsignacionMaterias.resx">
+      <DependentUpon>AsignacionMaterias.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="conexion1.resx">
       <DependentUpon>conexion1.cs</DependentUpon>
     </EmbeddedResource>

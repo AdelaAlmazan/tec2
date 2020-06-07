@@ -1,0 +1,16 @@
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\bin\Debug\EscuelaTec.exe.config
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\bin\Debug\EscuelaTec.exe
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\bin\Debug\EscuelaTec.pdb
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.csprojAssemblyReference.cache
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.conexion1.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.Form1.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.Form2.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.Form3.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.Form4.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.Form5.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.Form6.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.Form7.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.Properties.Resources.resources
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.csproj.GenerateResource.cache
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.exe
+C:\Users\adela\source\repos\EscuelaTec\EscuelaTec\obj\Debug\EscuelaTec.pdb

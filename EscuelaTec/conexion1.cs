@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;  
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace EscuelaTec
+{
+    public partial class conexion1 : Form
+    {
+        public conexion1()
+        {
+            InitializeComponent();
+        }
+
+        private void conexion1_Load(object sender, EventArgs e)
+        {
+            ConexionBD conexion = new ConexionBD();
+            conexion.abrir();
+
+        }
+    }
+}
